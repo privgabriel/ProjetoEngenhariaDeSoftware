@@ -1,0 +1,86 @@
+{
+  "equipamentos": [
+    {
+      "id": "1",
+      "tipo": "Projetor",
+      "marca": "Epson",
+      "modelo": "PowerLite S39",
+      "numero_serie": "S39-123456",
+      "data_aquisicao": "2022-01-15",
+      "status": "Disponível"
+    },
+    {
+      "id": "2",
+      "tipo": "Notebook",
+      "marca": "Dell",
+      "modelo": "Latitude 5490",
+      "numero_serie": "5490-789012",
+      "data_aquisicao": "01-07-2001",
+      "status": "Em uso"
+    },
+    {
+      "id": "3",
+      "tipo": "Computador",
+      "marca": "HP",
+      "modelo": "ProDesk 400 G6",
+      "numero_serie": "400G6-345678",
+      "data_aquisicao": "2020-09-10",
+      "status": "Disponível"
+    },
+    {
+      "id": "4",
+      "tipo": "Impressora",
+      "marca": "Canon",
+      "modelo": "PIXMA TS6320",
+      "numero_serie": "TS6320-234567",
+      "data_aquisicao": "2021-11-30",
+      "status": "Disponível"
+    },
+    {
+      "id": "5",
+      "tipo": "Switch",
+      "marca": "Cisco",
+      "modelo": "Catalyst 2960",
+      "numero_serie": "2960-456789",
+      "data_aquisicao": "2020-07-25",
+      "status": "Em uso"
+    },
+    {
+      "id": "7",
+      "tipo": "Câmera de Segurança 2",
+      "marca": "Hikvision",
+      "modelo": "DS-2CD2346G2-ISU",
+      "numero_serie": "2346G2-678901",
+      "data_aquisicao": "05-12-2019",
+      "status": "Em uso"
+    },
+    {
+      "id": "8",
+      "tipo": "Telefone IP",
+      "marca": "Yealink",
+      "modelo": "SIP-T46S",
+      "numero_serie": "T46S-789012",
+      "data_aquisicao": "2020-04-18",
+      "status": "Disponível"
+    },
+    {
+      "id": "9",
+      "tipo": "Tablet",
+      "marca": "Samsung",
+      "modelo": "Galaxy Tab S7",
+      "numero_serie": "S7-890123",
+      "data_aquisicao": "2021-08-22",
+      "status": "Em uso"
+    },
+    {
+      "id": 0,
+      "tipo": "Menhegas",
+      "marca": "Onto",
+      "modelo": "999",
+      "numero_serie": "777",
+      "data_aquisicao": "1864-06-22",
+      "status": true,
+      "birth_date": "22-06-1864"
+    }
+  ]
+}
